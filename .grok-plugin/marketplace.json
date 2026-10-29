@@ -498,7 +498,7 @@
         "path": "plugins/expo"
       },
       "homepage": "https://docs.expo.dev/agents/",
-      "keywords": ["expo", "react native", "android development", "ios development", "deploy to app store", "deploy to play store", "verify in ios simulator", "verify in android emulator"],
+      "keywords": ["expo"],
       "domains": ["expo.dev", "docs.expo.dev", "expo.io"]
     }
   ]
